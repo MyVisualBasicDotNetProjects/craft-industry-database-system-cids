@@ -1,0 +1,257 @@
+C:\Users\Biniam\Sys\app.config
+C:\Users\Biniam\Sys\Craft Industry Database System.exe.config
+C:\Users\Biniam\Sys\Craft Industry Database System.exe.manifest
+C:\Users\Biniam\Sys\Craft Industry Database System.application
+C:\Users\Biniam\Sys\Craft Industry Database System.exe
+C:\Users\Biniam\Sys\Craft Industry Database System.pdb
+C:\Users\Biniam\Sys\Craft Industry Database System.xml
+C:\Users\Biniam\Desktop\CIDS Final\Craft Industry Database System\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Biniam\Desktop\CIDS Final\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.About.resources
+C:\Users\Biniam\Desktop\CIDS Final\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmChangePassword.resources
+C:\Users\Biniam\Desktop\CIDS Final\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCommunication.resources
+C:\Users\Biniam\Desktop\CIDS Final\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCompetition.resources
+C:\Users\Biniam\Desktop\CIDS Final\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCustomer.resources
+C:\Users\Biniam\Desktop\CIDS Final\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmDefinition.resources
+C:\Users\Biniam\Desktop\CIDS Final\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmDescription.resources
+C:\Users\Biniam\Desktop\CIDS Final\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmDistribution.resources
+C:\Users\Biniam\Desktop\CIDS Final\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmEdit.resources
+C:\Users\Biniam\Desktop\CIDS Final\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmForm.resources
+C:\Users\Biniam\Desktop\CIDS Final\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCraftWorker.resources
+C:\Users\Biniam\Desktop\CIDS Final\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmManagement.resources
+C:\Users\Biniam\Desktop\CIDS Final\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.mdiHome.resources
+C:\Users\Biniam\Desktop\CIDS Final\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.Resources.resources
+C:\Users\Biniam\Desktop\CIDS Final\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmProduction.resources
+C:\Users\Biniam\Desktop\CIDS Final\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmRateOfProduction.resources
+C:\Users\Biniam\Desktop\CIDS Final\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmSupply.resources
+C:\Users\Biniam\Desktop\CIDS Final\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmSocialPosition.resources
+C:\Users\Biniam\Desktop\CIDS Final\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmTax.resources
+C:\Users\Biniam\Desktop\CIDS Final\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmUsers.resources
+C:\Users\Biniam\Desktop\CIDS Final\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmWorkshop.resources
+C:\Users\Biniam\Desktop\CIDS Final\Craft Industry Database System\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Biniam\Desktop\CIDS Final\Craft Industry Database System\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Biniam\Desktop\CIDS Final\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.exe.manifest
+C:\Users\Biniam\Desktop\CIDS Final\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.application
+C:\Users\Biniam\Desktop\CIDS Final\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.exe
+C:\Users\Biniam\Desktop\CIDS Final\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.xml
+C:\Users\Biniam\Desktop\CIDS Final\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.pdb
+C:\Users\Biniam\Desktop\output\app.config
+C:\Users\Biniam\Desktop\output\Craft Industry Database System.exe.config
+C:\Users\Biniam\Desktop\output\Craft Industry Database System.exe.manifest
+C:\Users\Biniam\Desktop\output\Craft Industry Database System.application
+C:\Users\Biniam\Desktop\output\Craft Industry Database System.exe
+C:\Users\Biniam\Desktop\output\Craft Industry Database System.pdb
+C:\Users\Biniam\Desktop\output\Craft Industry Database System.xml
+C:\Users\Biniam\Desktop\CIDS Final 2\Craft Industry Database System\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Biniam\Desktop\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.About.resources
+C:\Users\Biniam\Desktop\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmChangePassword.resources
+C:\Users\Biniam\Desktop\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCommunication.resources
+C:\Users\Biniam\Desktop\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCompetition.resources
+C:\Users\Biniam\Desktop\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCreateUser.resources
+C:\Users\Biniam\Desktop\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCustomer.resources
+C:\Users\Biniam\Desktop\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmDefinition.resources
+C:\Users\Biniam\Desktop\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmDescription.resources
+C:\Users\Biniam\Desktop\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmDistribution.resources
+C:\Users\Biniam\Desktop\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmEdit.resources
+C:\Users\Biniam\Desktop\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmForm.resources
+C:\Users\Biniam\Desktop\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCraftWorker.resources
+C:\Users\Biniam\Desktop\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmManagement.resources
+C:\Users\Biniam\Desktop\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.mdiHome.resources
+C:\Users\Biniam\Desktop\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.Resources.resources
+C:\Users\Biniam\Desktop\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmProduction.resources
+C:\Users\Biniam\Desktop\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmRateOfProduction.resources
+C:\Users\Biniam\Desktop\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmSearch.resources
+C:\Users\Biniam\Desktop\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmSupply.resources
+C:\Users\Biniam\Desktop\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmSocialPosition.resources
+C:\Users\Biniam\Desktop\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmTax.resources
+C:\Users\Biniam\Desktop\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmUsers.resources
+C:\Users\Biniam\Desktop\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmWorkshop.resources
+C:\Users\Biniam\Desktop\CIDS Final 2\Craft Industry Database System\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Biniam\Desktop\CIDS Final 2\Craft Industry Database System\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Biniam\Desktop\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.exe.manifest
+C:\Users\Biniam\Desktop\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.application
+C:\Users\Biniam\Desktop\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.exe
+C:\Users\Biniam\Desktop\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.xml
+C:\Users\Biniam\Desktop\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.pdb
+D:\CIDS - Final File 2010\output\Craft Industry Database System.exe.config
+D:\CIDS - Final File 2010\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.exe
+D:\CIDS - Final File 2010\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.xml
+D:\CIDS - Final File 2010\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.pdb
+D:\CIDS - Final File 2010\output\app.config
+D:\CIDS - Final File 2010\output\Craft Industry Database System.exe.manifest
+D:\CIDS - Final File 2010\output\Craft Industry Database System.application
+D:\CIDS - Final File 2010\output\Craft Industry Database System.exe
+D:\CIDS - Final File 2010\output\Craft Industry Database System.pdb
+D:\CIDS - Final File 2010\output\Craft Industry Database System.xml
+D:\CIDS - Final File 2010\CIDS Final 2\Craft Industry Database System\obj\x86\Release\ResolveAssemblyReference.cache
+D:\CIDS - Final File 2010\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.About.resources
+D:\CIDS - Final File 2010\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmChangePassword.resources
+D:\CIDS - Final File 2010\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCommunication.resources
+D:\CIDS - Final File 2010\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCompetition.resources
+D:\CIDS - Final File 2010\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCreateUser.resources
+D:\CIDS - Final File 2010\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCustomer.resources
+D:\CIDS - Final File 2010\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmDefinition.resources
+D:\CIDS - Final File 2010\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmDescription.resources
+D:\CIDS - Final File 2010\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmDistribution.resources
+D:\CIDS - Final File 2010\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmEdit.resources
+D:\CIDS - Final File 2010\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmForm.resources
+D:\CIDS - Final File 2010\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCraftWorker.resources
+D:\CIDS - Final File 2010\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmManagement.resources
+D:\CIDS - Final File 2010\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.mdiHome.resources
+D:\CIDS - Final File 2010\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.Resources.resources
+D:\CIDS - Final File 2010\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmProduction.resources
+D:\CIDS - Final File 2010\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmRateOfProduction.resources
+D:\CIDS - Final File 2010\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmSearch.resources
+D:\CIDS - Final File 2010\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmSupply.resources
+D:\CIDS - Final File 2010\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmSocialPosition.resources
+D:\CIDS - Final File 2010\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmTax.resources
+D:\CIDS - Final File 2010\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmUsers.resources
+D:\CIDS - Final File 2010\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmWorkshop.resources
+D:\CIDS - Final File 2010\CIDS Final 2\Craft Industry Database System\obj\x86\Release\GenerateResource.read.1.tlog
+D:\CIDS - Final File 2010\CIDS Final 2\Craft Industry Database System\obj\x86\Release\GenerateResource.write.1.tlog
+D:\CIDS - Final File 2010\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.exe.manifest
+D:\CIDS - Final File 2010\CIDS Final 2\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.application
+E:\CIDS Final -Latest\Craft Industry Database System\obj\x86\Release\ResolveAssemblyReference.cache
+E:\CIDS Final -Latest\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.About.resources
+E:\CIDS Final -Latest\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmChangePassword.resources
+E:\CIDS Final -Latest\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCommunication.resources
+E:\CIDS Final -Latest\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCompetition.resources
+E:\CIDS Final -Latest\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCreateUser.resources
+E:\CIDS Final -Latest\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCustomer.resources
+E:\CIDS Final -Latest\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmDefinition.resources
+E:\CIDS Final -Latest\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmDescription.resources
+E:\CIDS Final -Latest\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmDistribution.resources
+E:\CIDS Final -Latest\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmEdit.resources
+E:\CIDS Final -Latest\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmForm.resources
+E:\CIDS Final -Latest\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCraftWorker.resources
+E:\CIDS Final -Latest\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmManagement.resources
+E:\CIDS Final -Latest\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.mdiHome.resources
+E:\CIDS Final -Latest\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.Resources.resources
+E:\CIDS Final -Latest\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmProduction.resources
+E:\CIDS Final -Latest\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmRateOfProduction.resources
+E:\CIDS Final -Latest\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmSearch.resources
+E:\CIDS Final -Latest\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmSupply.resources
+E:\CIDS Final -Latest\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmSocialPosition.resources
+E:\CIDS Final -Latest\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmTax.resources
+E:\CIDS Final -Latest\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmUsers.resources
+E:\CIDS Final -Latest\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmWorkshop.resources
+E:\CIDS Final -Latest\Craft Industry Database System\obj\x86\Release\GenerateResource.read.1.tlog
+E:\CIDS Final -Latest\Craft Industry Database System\obj\x86\Release\GenerateResource.write.1.tlog
+E:\CIDS Final -Latest\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.exe.manifest
+E:\CIDS Final -Latest\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.application
+E:\CIDS Final -Latest\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.exe
+E:\CIDS Final -Latest\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.xml
+E:\CIDS Final -Latest\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.pdb
+E:\output\app.config
+E:\output\Craft Industry Database System.exe.config
+E:\output\Craft Industry Database System.exe.manifest
+E:\output\Craft Industry Database System.application
+E:\output\Craft Industry Database System.exe
+E:\output\Craft Industry Database System.pdb
+E:\output\Craft Industry Database System.xml
+E:\CIDS 2011\Craft Industry Database System\obj\x86\Release\ResolveAssemblyReference.cache
+E:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.About.resources
+E:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmChangePassword.resources
+E:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCommunication.resources
+E:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCompetition.resources
+E:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCreateUser.resources
+E:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCustomer.resources
+E:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmDefinition.resources
+E:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmDescription.resources
+E:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmDistribution.resources
+E:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmEdit.resources
+E:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmForm.resources
+E:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCraftWorker.resources
+E:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmManagement.resources
+E:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.mdiHome.resources
+E:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.Resources.resources
+E:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmProduction.resources
+E:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmRateOfProduction.resources
+E:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmSearch.resources
+E:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmSupply.resources
+E:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmSocialPosition.resources
+E:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmTax.resources
+E:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmUsers.resources
+E:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmWorkshop.resources
+E:\CIDS 2011\Craft Industry Database System\obj\x86\Release\GenerateResource.read.1.tlog
+E:\CIDS 2011\Craft Industry Database System\obj\x86\Release\GenerateResource.write.1.tlog
+E:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.exe.manifest
+E:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.application
+E:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.exe
+E:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.xml
+E:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.pdb
+G:\output\app.config
+G:\output\Craft Industry Database System.exe.config
+G:\output\Craft Industry Database System.exe.manifest
+G:\output\Craft Industry Database System.application
+G:\output\Craft Industry Database System.exe
+G:\output\Craft Industry Database System.pdb
+G:\output\Craft Industry Database System.xml
+G:\CIDS 2011\Craft Industry Database System\obj\x86\Release\ResolveAssemblyReference.cache
+G:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.About.resources
+G:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmChangePassword.resources
+G:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCommunication.resources
+G:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCompetition.resources
+G:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCreateUser.resources
+G:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCustomer.resources
+G:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmDefinition.resources
+G:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmDescription.resources
+G:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmDistribution.resources
+G:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmEdit.resources
+G:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmForm.resources
+G:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCraftWorker.resources
+G:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmManagement.resources
+G:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.mdiHome.resources
+G:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.Resources.resources
+G:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmProduction.resources
+G:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmRateOfProduction.resources
+G:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmSearch.resources
+G:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmSupply.resources
+G:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmSocialPosition.resources
+G:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmTax.resources
+G:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmUsers.resources
+G:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmWorkshop.resources
+G:\CIDS 2011\Craft Industry Database System\obj\x86\Release\GenerateResource.read.1.tlog
+G:\CIDS 2011\Craft Industry Database System\obj\x86\Release\GenerateResource.write.1.tlog
+G:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.exe.manifest
+G:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.application
+G:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.exe
+G:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.xml
+G:\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.pdb
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\output\Craft Industry Database System.exe.config
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.exe
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.xml
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.pdb
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\output\app.config
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\output\Craft Industry Database System.exe.manifest
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\output\Craft Industry Database System.application
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\output\Craft Industry Database System.exe
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\output\Craft Industry Database System.pdb
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\output\Craft Industry Database System.xml
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\CIDS 2011\Craft Industry Database System\obj\x86\Release\ResolveAssemblyReference.cache
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.About.resources
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmChangePassword.resources
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCommunication.resources
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCompetition.resources
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCreateUser.resources
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCustomer.resources
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmDefinition.resources
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmDescription.resources
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmDistribution.resources
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmEdit.resources
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmForm.resources
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmCraftWorker.resources
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmManagement.resources
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.mdiHome.resources
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.Resources.resources
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmProduction.resources
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmRateOfProduction.resources
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmSearch.resources
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmSupply.resources
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmSocialPosition.resources
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmTax.resources
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmUsers.resources
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft_Industry_Database.frmWorkshop.resources
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\CIDS 2011\Craft Industry Database System\obj\x86\Release\GenerateResource.read.1.tlog
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\CIDS 2011\Craft Industry Database System\obj\x86\Release\GenerateResource.write.1.tlog
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.exe.manifest
+G:\Projects\CIDS - Every Single Thing\All CIDS Files\CIDS 2011\Craft Industry Database System\obj\x86\Release\Craft Industry Database System.application
